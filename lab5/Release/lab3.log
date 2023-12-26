@@ -1,0 +1,7 @@
+﻿  Lab5.cpp
+D:\dasanshang\wangji\lab5\Lab5.cpp(439,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 35 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  lab3.vcxproj -> D:\dasanshang\wangji\lab5\Release\lab5.exe
